@@ -1,0 +1,7 @@
+voting Applicstion
+
+what ??
+A functionality whwre user can give vote
+
+models?
+Routes?
